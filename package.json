@@ -31,6 +31,6 @@
     ]
   },
   "devDependencies": {
-    "querystringify": "^2.1.1"
+    "querystringify": ">=2.0.0"
   }
 }
